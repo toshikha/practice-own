@@ -1,0 +1,48 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.large {
+  font-size: 50px;
+}
+.purple {
+  color: purple;
+}
+.link-up {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(113, 17, 113), rgb(168, 125, 168));
+  color: bisque;
+  padding: 5px;
+  border-radius: 5px;
+}
+.set {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  padding: 5%;
+}
+.half-width img {
+  width: 70%;
+}
+.blue {
+  color: blue;
+}
+.set-up {
+  width: 50%;
+  box-shadow: 10px 10px 40px black;
+  margin-left: 5%;
+  margin-left: 5%;
+  border-radius: 15px;
+  padding: 10px;
+  border-left: 5px solid rgb(105, 7, 105);
+  border-right: 5px solid rgb(105, 7, 105);
+}
+.flex {
+  display: flex;
+}
+.sky-blue {
+  color: rgb(21, 87, 113);
+}
+.red {
+  color: rgb(203, 68, 19);
+}
